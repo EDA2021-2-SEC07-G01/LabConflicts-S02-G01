@@ -1,5 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
+Laboratorio  02 - Administración de Versiones y Solución de Conflictos
+
 | Estudiante 1 | Estudiante 2 |
 | :-------------: | :-------------: |
 | Nicolas Aparicio Claros  | Isai Daniel Chacón Silva  |
