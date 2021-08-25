@@ -50,8 +50,7 @@ def loadTags(filename):
     for tag in input_file:
         model.addTag(tags, tag)
     return tags
-
-
+  
 def loadBooksTags(filename): 
     #Modificación de Est-1 y Est-2 en el Lab 2 
     booktagsfile = cf.data_dir + filename 
